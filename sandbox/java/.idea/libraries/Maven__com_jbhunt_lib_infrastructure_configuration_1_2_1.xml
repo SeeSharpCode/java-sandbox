@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.jbhunt:lib_infrastructure_configuration:1.2.1">
+    <CLASSES>
+      <root url="jar://C:/ProgramData/Maven/.m2/repository/com/jbhunt/lib_infrastructure_configuration/1.2.1/lib_infrastructure_configuration-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/ProgramData/Maven/.m2/repository/com/jbhunt/lib_infrastructure_configuration/1.2.1/lib_infrastructure_configuration-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/ProgramData/Maven/.m2/repository/com/jbhunt/lib_infrastructure_configuration/1.2.1/lib_infrastructure_configuration-1.2.1-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../lib_infrastructure_configuration/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

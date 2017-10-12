@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-batch" />
+        <module name="spring-boot-caching" />
+        <module name="spring-boot-config-client" />
+        <module name="spring-boot-config-server" />
+        <module name="spring-boot-data-rest" />
+        <module name="spring-boot-jms" />
+        <module name="spring-boot-jpa" />
+        <module name="spring-boot-rest-client" />
+        <module name="spring-boot-rest-docs" />
+        <module name="spring-boot-rest-jquery" />
+        <module name="spring-boot-rest-service" />
+        <module name="spring-boot-scheduled-tasks" />
+        <module name="spring-boot-soap-client" />
+        <module name="spring-boot-soap-service" />
+        <module name="spring-boot-transactions" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="javasandbox" target="1.5" />
+      <module name="spring-boot-batch" target="1.8" />
+      <module name="spring-boot-caching" target="1.8" />
+      <module name="spring-boot-cloud-config" target="1.8" />
+      <module name="spring-boot-config-client" target="1.8" />
+      <module name="spring-boot-config-server" target="1.8" />
+      <module name="spring-boot-data-rest" target="1.8" />
+      <module name="spring-boot-jms" target="1.8" />
+      <module name="spring-boot-jpa" target="1.8" />
+      <module name="spring-boot-rest-client" target="1.8" />
+      <module name="spring-boot-rest-docs" target="1.8" />
+      <module name="spring-boot-rest-jquery" target="1.8" />
+      <module name="spring-boot-rest-service" target="1.8" />
+      <module name="spring-boot-scheduled-tasks" target="1.8" />
+      <module name="spring-boot-soap-client" target="1.8" />
+      <module name="spring-boot-soap-service" target="1.8" />
+      <module name="spring-boot-transactions" target="1.8" />
+      <module name="spring-boot-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

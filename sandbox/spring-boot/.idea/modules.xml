@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-batch/spring-boot-batch.iml" filepath="$PROJECT_DIR$/spring-boot-batch/spring-boot-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-caching/spring-boot-caching.iml" filepath="$PROJECT_DIR$/spring-boot-caching/spring-boot-caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-config-client/spring-boot-config-client.iml" filepath="$PROJECT_DIR$/spring-boot-config-client/spring-boot-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-config-server/spring-boot-config-server.iml" filepath="$PROJECT_DIR$/spring-boot-config-server/spring-boot-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-rest/spring-boot-data-rest.iml" filepath="$PROJECT_DIR$/spring-boot-data-rest/spring-boot-data-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jms/spring-boot-jms.iml" filepath="$PROJECT_DIR$/spring-boot-jms/spring-boot-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-client/spring-boot-rest-client.iml" filepath="$PROJECT_DIR$/spring-boot-rest-client/spring-boot-rest-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-docs/spring-boot-rest-docs.iml" filepath="$PROJECT_DIR$/spring-boot-rest-docs/spring-boot-rest-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-jquery/spring-boot-rest-jquery.iml" filepath="$PROJECT_DIR$/spring-boot-rest-jquery/spring-boot-rest-jquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-service/spring-boot-rest-service.iml" filepath="$PROJECT_DIR$/spring-boot-rest-service/spring-boot-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scheduled-tasks/spring-boot-scheduled-tasks.iml" filepath="$PROJECT_DIR$/spring-boot-scheduled-tasks/spring-boot-scheduled-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-soap-client/spring-boot-soap-client.iml" filepath="$PROJECT_DIR$/spring-boot-soap-client/spring-boot-soap-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-soap-service/spring-boot-soap-service.iml" filepath="$PROJECT_DIR$/spring-boot-soap-service/spring-boot-soap-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-transactions/spring-boot-transactions.iml" filepath="$PROJECT_DIR$/spring-boot-transactions/spring-boot-transactions.iml" />
+    </modules>
+  </component>
+</project>
